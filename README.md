@@ -4,3 +4,8 @@
 
 2.Install_GateOne:  Downloads and compiles and runs the HTML5 Gateone Terminal application so a person can log into their cluster without a terminal application 
 
+Links:
+
+https://github.com/airbnb/airpal
+https://github.com/liftoff/GateOne
+
