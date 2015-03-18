@@ -4,7 +4,7 @@
 #
 # By Jacob Goren
 #
-# Arguments (optional):
+# Arguments (Should be S3 location of files):
 # Parameter 1 is your hive properties with the metastore you want to use for presto
 # Parameter 2 is your presto JVM settings
 # Parameter 3 is your airpal reference file
