@@ -1,5 +1,4 @@
 # EMR_BOOTSTRAPS
-
 1. Install-Airpal: Installs the Airbnb Web UI Airpal for Presto DB system. It will copy over passed Presto files, restart Presto (Hardcoded to .78 right now), Airpal files, download the source, build and run the application on Port 80
  
 
