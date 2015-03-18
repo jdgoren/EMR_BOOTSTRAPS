@@ -2,6 +2,8 @@
 #
 # Installs the Airbnb Airpal UI on EMR
 #
+# By Jacob Goren
+#
 # Arguments (optional):
 # Parameter 1 is your hive properties with the metastore you want to use for presto
 # Parameter 2 is your presto JVM settings
